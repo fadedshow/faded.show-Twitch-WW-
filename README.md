@@ -1,4 +1,6 @@
 # faded.show-Twitch-WW-
+https://faded.show/projects/twitch-WW/
+
 How well do you know your viewers?
 
 The goal of the game: guess which viewer wrote the message.
